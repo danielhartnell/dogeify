@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "dogeify"
   spec.version       = Dogeify::VERSION
   spec.authors       = ["Daniel Hartnell"]
-  spec.email         = ["dhartnell@newrelic.com"]
+  spec.email         = ["danielhartnell@gmail.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
